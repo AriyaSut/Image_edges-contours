@@ -1,16 +1,18 @@
 # Edge&contours
-Filter is modification of the pixel value that use more than 1 pixel to compute new pixel value.
+This block will show you simple methods for localizing edges and matlab code. 
 
 ## Overview
 
-* Linear filter
-  * Box filter
-  * Gauss filter 
-  * Laplace or Maxican hat filter
-* Nonlinear filter
-  * Minimum filter
-  * Maximum filter
-  * Median filter
-  * Weight Median filter
+* Edge detection
+  * Prewitt operation
+  * Sobel operator 
+  * Robert operator
+  * Compass operator
+  * Canny operator
+  * MLaplacian of Gaussian
+* Edge sharpening
+  * Lapace filter
+  * Unsharp masking(USM)
 
 ** You can find more information in PDF file.
+** Matlab code
