@@ -9,7 +9,7 @@ This block will show you simple methods for localizing edges and matlab code.
   * Robert operator
   * Compass operator
   * Canny operator
-  * MLaplacian of Gaussian
+  * Laplacian of Gaussian
 * Edge sharpening
   * Lapace filter
   * Unsharp masking(USM)
